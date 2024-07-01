@@ -191,4 +191,3 @@ C:\Program Files\Python311\Lib\site-packages\PyInstaller\building\build_main.py:
 ## 修正意见
 
 ## 软件运维
-# EDwardGaming-EDwardGaming-Python_NEFU_PBL_Project
